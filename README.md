@@ -14,3 +14,5 @@ Steps involved in this project:
 9. Define Loses and Optimizers
 10. Train the neural network
 11. Making prediction and detection.
+
+![image](https://github.com/dhanushrajm/Fauna-Finder-Project/assets/119844990/473eae18-a8ff-43ba-ae8c-65c958efff92)
