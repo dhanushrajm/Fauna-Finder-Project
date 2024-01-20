@@ -4,4 +4,5 @@
   Faster R-CNN is a popular object detection algorithm that is used to detect and locate animals in an image. 
 Steps involved in this project:
 1. Importing the libraries
-2. 
+2. Loading the dataset images
+3. 
