@@ -1,8 +1,10 @@
-# Fauna-Finder-Project
+# Fauna-Finder-Project:
   In this project, we are making an animal detection interface using faster Faster R-CNN(Regional Convolutional Neural Network). 
 
   Faster R-CNN(Regional Convolutional Neural Network) algorithm is a popular object detection algorithm that is used to detect and locate animals in an image. 
+  
 Steps involved in this project:
+
 1. Importing the libraries
 2. Loading the dataset images
 3. Splitting the dataset
@@ -15,4 +17,4 @@ Steps involved in this project:
 10. Train the neural network
 11. Making prediction and detection.
 
-[https://github.com/dhanushrajm/Fauna-Finder-Project/blob/main/Screenshot%202024-01-20%20234238.png]
+![https://github.com/dhanushrajm/Fauna-Finder-Project/blob/main/Screenshot%202024-01-20%20234238.png]
