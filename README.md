@@ -17,4 +17,7 @@ Steps involved in this project:
 10. Train the neural network
 11. Making prediction and detection.
 
-![https://github.com/dhanushrajm/Fauna-Finder-Project/blob/main/Screenshot%202024-01-20%20234238.png]
+Final Result:
+
+<img width="177" alt="Screenshot 2024-01-20 234238" src="https://github.com/dhanushrajm/Fauna-Finder-Project/assets/119844990/96803447-b1e8-480f-999d-f50f405a52d2">
+
